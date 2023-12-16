@@ -118,3 +118,12 @@ body {
 .author p {
   grid-column: 2;
 }
+
+
+@media (width < 850git add .px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+}
