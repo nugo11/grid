@@ -120,7 +120,7 @@ body {
 }
 
 
-@media (width < 850git add .px) {
+@media (width < 850px) {
   .container {
     display: flex;
     flex-direction: column;
